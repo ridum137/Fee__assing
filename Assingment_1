@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <p> lorem ipsum dolor sir amet consectetur.</p>
+        <hl>  lorem ipsum dolor sir amet consectetur.</hl>
+        <ul>
+            <li> item-1</li>
+            <li> item-1</li>
+
+        </ul>
+        <a href="https://www.google.com" target="_blank">google</a>
+        <a href="https://in.yahoo.com">yahoo</a><br><br>
+        <a href="https://online.codingblocks.com">codingblocks</a>
+    </div>
+</body>
+</html>
